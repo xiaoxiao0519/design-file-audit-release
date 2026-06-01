@@ -18,16 +18,15 @@
 
 ```
 design-file-audit/
-├── README.md                          ← 本文件
-├── SKILL.md                           ← WorkBuddy 完整版 Skill
-├── portable-design-file-audit.md    ← 跨平台便携版（Cursor / Claude Code / Codex）
+├── README.md                           ← 本文件
+├── SKILL.md                            ← WorkBuddy 完整版 Skill
+├── portable-design-file-audit.md       ← 跨平台便携版（Cursor / Claude Code / Codex）
 ├── .gitignore
-├── figma-community-skill/
-│   └── SKILL.md                       ← Figma Make 专用版
+├── figma-design-file-audit-release.md   ← Figma Make 专用版
 └── references/
-    ├── naming-conventions.md         ← 图层命名规范参考
-    ├── file-structure-autolayout.md   ← 文件结构与 Auto Layout 规范
-    └── component-style-guidelines.md ← 组件与样式管理规范
+    ├── naming-conventions.md            ← 图层命名规范参考
+    ├── file-structure-autolayout.md     ← 文件结构与 Auto Layout 规范
+    └── component-style-guidelines.md    ← 组件与样式管理规范
 ```
 
 ## 🚀 安装
@@ -54,7 +53,7 @@ cat portable-design-file-audit.md >> CLAUDE.md
 
 ### Figma Make
 
-将 `figma-community-skill/` 文件夹上传到 Figma Community Skills 平台，或打开 `figma-community-skill/SKILL.md` 复制粘贴到 Figma Make 对话框。
+将 `figma-design-file-audit-release.md` 文件上传到 Figma Make skill。
 
 ## 📖 使用方式
 
